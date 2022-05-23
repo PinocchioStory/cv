@@ -1,3 +1,3 @@
 
-[# PinocchioStory](https://PinocchioStory.github.io/cv)
+[PinocchioStory](https://pinocchiostory.github.io/cv/index.html)
 
